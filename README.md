@@ -7,9 +7,11 @@
 </div>
 
 ## Muito prazer, meu nome é Marco!
-Sou um acadêmico de Engenharia de Produção e Administração de Empresas, focado nas áreas de estatística, pesquisa operacional, tecnologia e dados, nas quais tenho competências e paixão por me desenvolver cada vez mais.
+Sou um acadêmico de Engenharia de Produção, focado nas áreas de estatística, pesquisa operacional, tecnologia e dados, nas quais tenho competências e paixão por me desenvolver cada vez mais.
 
 Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como SQL, até linguagens de programação como Python e R.
+
+Atualmente atuo como Analista Comercial (Analytics), no setor de Saneamento, fazendo parte de um time que desenvolve algoritmos para resolução de problemas de negócio e entrega de informações apuradas, apoiando tomadas de decisões fundamentadas com base em dados.
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
@@ -17,6 +19,7 @@ Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como 
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank">
 </div>
 
 ##
@@ -29,6 +32,6 @@ Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como 
 - Outros mais criativos mostrando conhecimentos como programação orientada a objetos e a utilização de bibliotecas populares.
 
 <div>
-  <img src="https://cio.com.br/wp-content/uploads/2020/08/cursos-online-gratuitos-cie%CC%82ncia-de-dados.jpg">
+  <img src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2019/06/Por-Que-e-Como-Data-Science-e-Mais-do-Que-Apenas-Machine-Learning.jpg?fit=850%2C425&ssl=1">
 </div>
 
