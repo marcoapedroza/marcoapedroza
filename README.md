@@ -7,11 +7,11 @@
 </div>
 
 ## Muito prazer, meu nome é Marco!
-Sou um acadêmico de Engenharia de Produção, focado nas áreas de estatística, pesquisa operacional, tecnologia e dados, nas quais tenho competências e paixão por me desenvolver cada vez mais.
+Sou formado em Engenharia de Produção, focado nas áreas de estatística, pesquisa operacional, tecnologia e dados, nas quais tenho competências e paixão por me desenvolver cada vez mais.
 
 Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como SQL, até linguagens de programação como Python e R.
 
-Atualmente atuo como Analista Comercial (Analytics), no setor de Saneamento, fazendo parte de um time que desenvolve algoritmos para resolução de problemas de negócio e entrega de informações apuradas, apoiando tomadas de decisões fundamentadas com base em dados.
+Atualmente atuo como Especialista de Dados, no setor de Saneamento, desenvolvendo algoritmos para resolução de problemas de negócio e entrega de informações apuradas, apoiando tomadas de decisões em dados.
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
