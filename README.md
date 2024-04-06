@@ -11,7 +11,7 @@ Sou formado em Engenharia de Produção, focado nas áreas de estatística, pesq
 
 Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como SQL, até linguagens de programação como Python e R.
 
-Atualmente atuo como Especialista de Dados, no setor de Saneamento, desenvolvendo algoritmos para resolução de problemas de negócio e entrega de informações apuradas, apoiando tomadas de decisões em dados.
+Atualmente atuo como Especialista de Dados, no setor de Saneamento, desenvolvendo algoritmos para resolução de problemas de negócio e dashboards para a entrega de informações apuradas, apoiando tomadas de decisões em dados.
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
