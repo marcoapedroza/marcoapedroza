@@ -7,11 +7,13 @@
 </div>
 
 ## Muito prazer, meu nome é Marco!
-Sou formado em Engenharia de Produção, focado nas áreas de estatística, pesquisa operacional, tecnologia e dados, nas quais tenho competências e paixão por me desenvolver cada vez mais.
+👋 Olá! Sou formado em Engenharia de Produção, com foco em estatística, pesquisa operacional, tecnologia e dados—áreas nas quais tenho grande interesse e sigo me aprimorando constantemente.
 
-Meus conhecimentos vão de Excel, passando por banco de dados e linguagens como SQL, até linguagens de programação como Python e R.
+💡 Minha trajetória em Data Analytics e Engenharia de Dados inclui desde a manipulação de dados em Excel e SQL, até o desenvolvimento de soluções com Python e R. Tenho ampla experiência na criação de relatórios e dashboards interativos no Power BI, além de processamento de dados em larga escala no Databricks.
 
-Atualmente atuo como Especialista de Dados, no setor de Saneamento, desenvolvendo algoritmos para resolução de problemas de negócio e dashboards para a entrega de informações apuradas, apoiando tomadas de decisões em dados.
+🚀 Atualmente, atuo como Especialista de Dados no setor de Saneamento, desenvolvendo algoritmos para resolver desafios de negócio e criando dashboards estratégicos para transformar dados em insights valiosos, apoiando tomadas de decisão baseadas em informações precisas.
+
+📊 Sou apaixonado por transformar dados em soluções e sempre busco novas formas de otimizar processos e gerar valor por meio da tecnologia.
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
