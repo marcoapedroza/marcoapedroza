@@ -1,39 +1,49 @@
-# Olá, galera!! 👋💻
+# Marco Aurélio Pedroza 👋
 
-<div>
-  <a href="https://www.facebook.com/marco.aurelio.31945" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcoaur%C3%A9liopedroza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marco.a.pedroza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+**Especialista em Dados e Processos | Engenharia de Dados · Analytics · BI**
 
-## Muito prazer, meu nome é Marco!
-👋 Olá! Sou formado em Engenharia de Produção, com foco em estatística, pesquisa operacional, tecnologia e dados—áreas nas quais tenho grande interesse e sigo me aprimorando constantemente.
+Sou engenheiro de produção e trabalho na construção de soluções de dados para problemas de negócio: da integração e preparação das bases à análise, automação e comunicação dos resultados. Atuei nos setores de saneamento e energia elétrica e, atualmente, integro a área de **Prevenção a Fraudes do Grupo Amil**.
 
-💡 Minha trajetória em Data Analytics e Engenharia de Dados inclui desde a manipulação de dados em Excel e SQL, até o desenvolvimento de soluções com Python e R. Tenho ampla experiência na criação de relatórios e dashboards interativos no Power BI, além de processamento de dados em larga escala no Databricks.
+Meu trabalho combina **Python, SQL, PySpark, R, Databricks e Power BI** para criar pipelines rastreáveis, indicadores confiáveis, análises exploratórias e dashboards que apoiam decisões. Gosto de entender as regras do processo antes de transformar dados em produtos úteis para as equipes.
 
-🚀 Atualmente, atuo como Especialista de Dados no setor de Saneamento, desenvolvendo algoritmos para resolver desafios de negócio e criando dashboards estratégicos para transformar dados em insights valiosos, apoiando tomadas de decisão baseadas em informações precisas.
+## Atuação
 
-📊 Sou apaixonado por transformar dados em soluções e sempre busco novas formas de otimizar processos e gerar valor por meio da tecnologia.
+- **Grupo Amil | Especialista em Dados e Processos (set/2026 – atual):** análises de padrões de utilização em saúde, desenvolvimento de regras e algoritmos de negócio, automação de análises e criação de dashboards e apresentações executivas para prevenção a fraudes.
+- **Light | Especialista em Dados (até mai/2026):** engenharia de dados e automação de processos ligados a medições, fechamento de carga e balanço energético, com integrações entre fontes operacionais e camadas analíticas.
+- **Águas do Rio | Dados e operações (2021–2025):** soluções de BI e análise de dados para telemetria, volumes disponibilizados, balanço hídrico e identificação de anomalias.
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank">
-</div>
+## Tecnologias
 
-##
+**Linguagens e análise**
 
-### Sobre os meus projetos publicados no GitHub:
-- Coleta de dados na web;
-- Análise de dados;
-- Machine Learning;
-- Deep Learning;
-- Outros mais criativos mostrando conhecimentos como programação orientada a objetos e a utilização de bibliotecas populares.
+[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)
+[<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">](https://www.r-project.org/)
+[<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">](https://learn.microsoft.com/sql/)
+[<img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">](https://spark.apache.org/docs/latest/api/python/)
 
-<div>
-  <img src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2019/06/Por-Que-e-Como-Data-Science-e-Mais-do-Que-Apenas-Machine-Learning.jpg?fit=850%2C425&ssl=1">
-</div>
+**Plataformas, processamento e BI**
 
+[<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">](https://www.databricks.com/)
+[<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">](https://azure.microsoft.com/)
+[<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">](https://aws.amazon.com/)
+[<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">](https://powerbi.microsoft.com/)
+[<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">](https://www.microsoft.com/microsoft-365/excel)
+
+No dia a dia, também trabalho com **Delta Lake, Azure Data Factory, Synapse, Azure DevOps, AWS Glue, S3, Athena, EMR, Oracle e SQL Server**, além de bibliotecas Python para tratamento, análise e modelagem de dados.
+
+**Outras tecnologias com que já trabalhei**
+
+[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)
+[<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/docs/Web/JavaScript)
+
+## Como desenvolvo soluções
+
+- Estruturo bases e pipelines com atenção a qualidade, rastreabilidade e regras de negócio.
+- Investigo padrões e exceções com análises estatísticas e comparação entre grupos.
+- Transformo resultados técnicos em indicadores, dashboards e apresentações que ajudam a definir prioridades.
+- Automatizo rotinas para reduzir trabalho manual e tornar análises reproduzíveis.
+
+## Contato
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcoaur%C3%A9liopedroza/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/marcoapedroza)
